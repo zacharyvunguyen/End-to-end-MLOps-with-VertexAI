@@ -1,0 +1,6 @@
+google-cloud-aiplatform==1.39.0
+kfp==2.6.0
+google-cloud-pipeline-components==2.9.0
+autotime
+
+# other dependencies...
